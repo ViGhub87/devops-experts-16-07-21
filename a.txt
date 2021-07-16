@@ -2,4 +2,9 @@ vital
 new row
 new row
 another new ro 
+<<<<<<< HEAD
 from my_branch
+from my branch  =======
+ from master 
+ from my_branch
+>>>>>>> master
