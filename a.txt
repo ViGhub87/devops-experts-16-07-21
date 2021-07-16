@@ -2,3 +2,5 @@ vital
 new row
 new row
 another new ro 
+ from master 
+ from my_branch
