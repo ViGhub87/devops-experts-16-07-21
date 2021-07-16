@@ -2,3 +2,4 @@ vital
 new row
 new row
 another new ro 
+from my_branch
